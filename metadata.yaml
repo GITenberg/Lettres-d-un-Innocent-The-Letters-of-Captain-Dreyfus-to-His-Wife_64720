@@ -1,0 +1,32 @@
+_repo: Lettres-d-un-Innocent-The-Letters-of-Captain-Dreyfus-to-His-Wife_64720
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Moreau, L. G.
+    gutenberg_agent_id: '53023'
+    url: http://www.gutenberg.org/2009/agents/53023
+creator:
+  author:
+    agent_name: Dreyfus, Alfred
+    birthdate: 1859
+    deathdate: 1935
+    gutenberg_agent_id: '39212'
+    url: http://www.gutenberg.org/2009/agents/39212
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Alfred_Dreyfus
+    - https://fr.wikipedia.org/wiki/Alfred_Dreyfus
+description: ''
+gutenberg_issued: '2021-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64720'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Lettres d''un Innocent
+
+  The Letters of Captain Dreyfus to His Wife'
+url: http://www.gutenberg.org/ebooks/64720
