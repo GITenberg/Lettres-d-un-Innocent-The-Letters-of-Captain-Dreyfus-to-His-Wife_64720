@@ -5,6 +5,9 @@ contributor:
     agent_name: Moreau, L. G.
     gutenberg_agent_id: '53023'
     url: http://www.gutenberg.org/2009/agents/53023
+covers:
+- cover_type: archival
+  image_path: 64720-h/images/cover.jpg
 creator:
   author:
     agent_name: Dreyfus, Alfred
@@ -16,6 +19,8 @@ creator:
     - https://en.wikipedia.org/wiki/Alfred_Dreyfus
     - https://fr.wikipedia.org/wiki/Alfred_Dreyfus
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64720#Lettres-d-un-Innocent-The-Letters-of-Captain-Dreyfus-to-His-Wife
 gutenberg_issued: '2021-03-06'
 gutenberg_type: Text
 identifiers:
